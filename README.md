@@ -5,7 +5,7 @@
 This section explains how to set up and run the Unity project with the MR app.
 First, Unity 2022.3.23f1 must be installed. The easiest way to do this is via the https://unity.com/releases/editor/archive. To do this, simply select "2022" -> "LTS (Default)" and search for 2022.3.23f1 in the list. Afterwards you can open Unity on your laptop and should have the right version installed if you click on "Installs" on the left hand side(\hyperref[fig:b.2]{Fig B.2 right}).
 
-[Prototype.pdf](https://github.com/user-attachments/files/18031220/Prototype.pdf?raw=true)
+[Prototype.pdf](ReadMeImages/Prototype.pdf)
 
 After you have installed the right Unity version, you can click on "Projects" and then on "Add" (\hyperref[fig:b.3]{Fig B.3 left}). Now a folder selector should open. Here you have to choose the previous cloned git folder and double click on it(\hyperref[fig:b.4]{Fig B.4 right}).
 
