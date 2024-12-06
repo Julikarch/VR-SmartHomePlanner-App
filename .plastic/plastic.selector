@@ -1,0 +1,4 @@
+repository "SmartPlanMR@JuliKarch@cloud"
+  path "/"
+    br "/main"
+    co "/main"
